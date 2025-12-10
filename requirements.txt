@@ -1,0 +1,6 @@
+streamlit>=1.22.0
+pandas>=1.4.0
+numpy>=1.22.0
+scikit-learn>=1.2.0
+altair>=4.2.0
+fpdf>=1.7.2
